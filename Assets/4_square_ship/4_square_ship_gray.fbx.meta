@@ -20,7 +20,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 4_square
-    second: {fileID: 4114592684191119678, guid: a58f947ab4dc51b4b86aa8d00827b0d8, type: 3}
+    second: {fileID: 2100000, guid: a0b2df41ff328f04492abfc18fe498b8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
