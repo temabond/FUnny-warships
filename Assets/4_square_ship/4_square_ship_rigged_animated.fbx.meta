@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: a58f947ab4dc51b4b86aa8d00827b0d8
 ModelImporter:
-  serializedVersion: 21100
+  serializedVersion: 21300
   internalIDToNameTable:
   - first:
       74: 5468435231987441932
@@ -96,7 +96,12 @@ ModelImporter:
   - first:
       74: -8357138689165809088
     second: Idle.001|SunAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4_square
+    second: {fileID: 4114592684191119678, guid: 7b3dfb4ddd006d54a80e7ca8fe88ae92, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -107,6 +112,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -194,6 +200,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -205,6 +212,7 @@ ModelImporter:
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
+    optimizeBones: 1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -247,6 +255,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

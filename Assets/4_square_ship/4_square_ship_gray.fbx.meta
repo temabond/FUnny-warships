@@ -15,7 +15,12 @@ ModelImporter:
   - first:
       74: 6686708722237718548
     second: Idle.002|shoot_bort (1)
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4_square
+    second: {fileID: 4114592684191119678, guid: a58f947ab4dc51b4b86aa8d00827b0d8, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

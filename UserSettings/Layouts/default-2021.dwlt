@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 112
+  controlID: 27
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 30
+  controlID: 123
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 31
+  controlID: 124
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -3070,22 +3070,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/3_square_ship
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/3_square_ship
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\PC\Desktop\FUnny warships\FUnny-warships
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1c640000
-    m_LastClickedID: 25628
-    m_ExpandedIDs: 000000007062000076620000786200007a6200007c6200007e6200008062000082620000fc6400000666000000ca9a3bffffff7f
+    m_SelectedIDs: 80640000
+    m_LastClickedID: 25728
+    m_ExpandedIDs: 00000000826200008462000086620000886200008a6200008c6200008e62000090620000926200009462000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3113,7 +3113,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000070620000726200007462000076620000786200007a6200007c6200007e6200008062000082620000
+    m_ExpandedIDs: 00000000826200008462000086620000886200008a6200008c6200008e620000906200009262000094620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3241,9 +3241,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 8a5b0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 02f7ffff1af8ffff1ef8ffff24f8ffff38fbffff265b0000
+      m_ExpandedIDs: 38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3543,11 +3543,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.25388417, y: -0.6478206, z: 0.24269402, w: 0.67626375}
     speed: 2
-    m_Value: {x: 0.25420198, y: -0.6466885, z: 0.24226911, w: 0.6771123}
+    m_Value: {x: -0.25388417, y: 0.6478206, z: -0.24269402, w: -0.67626375}
   m_Size:
     m_Target: 39.899002
     speed: 2
-    m_Value: 41.77906
+    m_Value: 39.899002
   m_Ortho:
     m_Target: 0
     speed: 2
