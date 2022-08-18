@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Warship_test
+  m_Name: Warship_test 2
   m_EditorClassIdentifier: 
   templateScene: {fileID: 102900000, guid: 0c373b238fefe7f458816e534dc26ae5, type: 3}
   templateName: 
