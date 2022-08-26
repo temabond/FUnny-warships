@@ -21,6 +21,24 @@ ModelImporter:
   - first:
       74: 216798364438198240
     second: Field_3_Cell Selection
+  - first:
+      74: -2634521322442000236
+    second: Field_3_Cell Selection Idle
+  - first:
+      74: 8713374132974056172
+    second: Field_4_3Cell Selection_Idle
+  - first:
+      74: 7374976762342260578
+    second: Field_1|Field_3_Cell Selection
+  - first:
+      74: -299913795410714786
+    second: Field_3_Cell Selection idle
+  - first:
+      74: 5701499227259251368
+    second: Field_4_3Cell Selection
+  - first:
+      74: 6946739972232330430
+    second: Field_4_3Cell Selection (1)
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -55,7 +73,7 @@ ModelImporter:
       takeName: Field_1
       internalID: 0
       firstFrame: 0
-      lastFrame: 249
+      lastFrame: 269
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -110,7 +128,7 @@ ModelImporter:
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
       name: Field_3_Cell Selection
-      takeName: Field_3_Cell Selection
+      takeName: Field_1|Field_3_Cell Selection
       internalID: 0
       firstFrame: 0
       lastFrame: 189
@@ -121,6 +139,93 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Field_3_Cell Selection idle
+      takeName: Field_1|Field_3_Cell Selection
+      internalID: 0
+      firstFrame: 188
+      lastFrame: 189
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Field_4_3Cell Selection (1)
+      takeName: Field_4_3Cell Selection
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 279
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Field_4_3Cell Selection_Idle
+      takeName: Field_4_3Cell Selection
+      internalID: 0
+      firstFrame: 199
+      lastFrame: 279
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
