@@ -189,7 +189,7 @@ ModelImporter:
       takeName: Field_4_3Cell Selection
       internalID: 0
       firstFrame: 0
-      lastFrame: 279
+      lastFrame: 289
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -217,8 +217,8 @@ ModelImporter:
       name: Field_4_3Cell Selection_Idle
       takeName: Field_4_3Cell Selection
       internalID: 0
-      firstFrame: 199
-      lastFrame: 279
+      firstFrame: 230
+      lastFrame: 289
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

@@ -1,41 +1,20 @@
 fileFormatVersion: 2
-guid: 7cb3345e8258088439c2cefefd26617b
+guid: 3afd27819bfbfda4591db0458a395c36
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable:
   - first:
-      74: 3733295420016241771
-    second: zero2.001|Armature.002Action
+      74: -7922737476242559307
+    second: 2Ship_Dead_Field_5
   - first:
-      74: 4650344960313662453
-    second: zero2.001|zero2.001Action
+      74: -407424103740938510
+    second: Field_1.002|Field_4_3Cell Selection.001
   - first:
-      74: 5948973052761535631
-    second: zero2.001|zero3.002Action
+      74: 269089368010822525
+    second: Field_1.002|idle2
   - first:
-      74: -766756078889035016
-    second: Armature.002|2_quad_attack
-  - first:
-      74: 6341347765515652326
-    second: Armature.002|2_quad_down
-  - first:
-      74: 8753446074241667524
-    second: Armature.002|2_quad_idle
-  - first:
-      74: 5138602965388526686
-    second: Armature.002|Armature.002Action
-  - first:
-      74: -4389458325710721101
-    second: Armature.002|zero2.001Action
-  - first:
-      74: -7273547629163211811
-    second: Armature.002|zero3.002Action
-  - first:
-      74: 8095727476219194341
-    second: 2_quad_Hit
-  - first:
-      74: 5992848025115956093
-    second: 2_quad_Hit_Idle
+      74: 2520231151254932121
+    second: 2Ship_Dead_Field_5_Idle
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -66,11 +45,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature.002|2_quad_attack
-      takeName: Armature.002|2_quad_attack
+      name: 2Ship_Dead_Field_5
+      takeName: 2Ship_Dead_Field_5
       internalID: 0
       firstFrame: 0
-      lastFrame: 100
+      lastFrame: 144
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -95,98 +74,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature.002|2_quad_down
-      takeName: Armature.002|2_quad_down
+      name: 2Ship_Dead_Field_5_Idle
+      takeName: 2Ship_Dead_Field_5
       internalID: 0
-      firstFrame: 0
-      lastFrame: 120
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: Armature.002|2_quad_idle
-      takeName: Armature.002|2_quad_idle
-      internalID: 0
-      firstFrame: 0
-      lastFrame: 100
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 1
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: 2_quad_Hit
-      takeName: Armature.002|2_quad_idle
-      internalID: 0
-      firstFrame: 70
-      lastFrame: 120
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: 2_quad_Hit_Idle
-      takeName: Armature.002|2_quad_idle
-      internalID: 0
-      firstFrame: 119
-      lastFrame: 120
+      firstFrame: 100
+      lastFrame: 144
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
