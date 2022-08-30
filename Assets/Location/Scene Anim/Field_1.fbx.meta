@@ -39,6 +39,9 @@ ModelImporter:
   - first:
       74: 6946739972232330430
     second: Field_4_3Cell Selection (1)
+  - first:
+      74: -6255371629358466448
+    second: Field_5
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -69,11 +72,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Field_1
-      takeName: Field_1
+      name: Field_5
+      takeName: Field_5
       internalID: 0
       firstFrame: 0
-      lastFrame: 269
+      lastFrame: 299
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
