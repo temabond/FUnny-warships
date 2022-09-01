@@ -54,6 +54,15 @@ ModelImporter:
   - first:
       74: 3793220160959228959
     second: Field_1 Idle
+  - first:
+      74: -6255371629358466448
+    second: Field_5
+  - first:
+      74: -846000999176056413
+    second: Field_5
+  - first:
+      74: 4415011127109132174
+    second: Field_5 Idle
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -85,7 +94,7 @@ ModelImporter:
     clipAnimations:
     - serializedVersion: 16
       name: Field_6
-      takeName: Field_5
+      takeName: Field_1|Field_5
       internalID: 0
       firstFrame: 0
       lastFrame: 299
@@ -142,11 +151,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Field_3_Cell Selection
-      takeName: Field_3_Cell Selection
+      name: Field_5
+      takeName: Field_5
       internalID: 0
       firstFrame: 0
-      lastFrame: 189
+      lastFrame: 349
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -171,18 +180,18 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Field_3_Cell Selection idle
-      takeName: Field_1|Field_3_Cell Selection
+      name: Field_5 Idle
+      takeName: Field_5
       internalID: 0
-      firstFrame: 188
-      lastFrame: 189
+      firstFrame: 300
+      lastFrame: 349
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
