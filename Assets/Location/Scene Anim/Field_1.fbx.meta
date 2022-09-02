@@ -122,11 +122,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Field_2 idle
-      takeName: Field_2
+      name: Field_3_Cell Selection
+      takeName: Field_3_Cell Selection
       internalID: 0
       firstFrame: 0
-      lastFrame: 29
+      lastFrame: 189
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -241,7 +241,7 @@ ModelImporter:
       name: Field_4_3Cell Selection_Idle
       takeName: Field_4_3Cell Selection
       internalID: 0
-      firstFrame: 230
+      firstFrame: 240
       lastFrame: 289
       wrapMode: 0
       orientationOffsetY: 0
