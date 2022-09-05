@@ -56,8 +56,8 @@ Material:
     m_Floats:
     - _: 0.4
     - _Metallic: 0
-    - _Power_alpha: -0.72
-    - _Power_alpha2: -5.7
+    - _Power_alpha: 1.91
+    - _Power_alpha2: -6
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0
