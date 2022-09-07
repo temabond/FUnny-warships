@@ -49,7 +49,7 @@ ModelImporter:
       takeName: 2Ship_Dead_Field_5
       internalID: 0
       firstFrame: 0
-      lastFrame: 144
+      lastFrame: 186
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -77,8 +77,8 @@ ModelImporter:
       name: 2Ship_Dead_Field_5_Idle
       takeName: 2Ship_Dead_Field_5
       internalID: 0
-      firstFrame: 100
-      lastFrame: 144
+      firstFrame: 145
+      lastFrame: 186
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
